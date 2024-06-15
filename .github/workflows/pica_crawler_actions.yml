@@ -65,7 +65,7 @@ jobs:
       - name: commit & push
         uses: actions-go/push@master
         with:
-          author-email: 'actions@github.com'
-          author-name: 'GitHub Actions'
+          author-email: '230047029@qq.com'
+          author-name: 'Da Huang Feng'
           commit-message: 'update downloaded comics'
           token: ${{ secrets.GIT_TOKEN }}
